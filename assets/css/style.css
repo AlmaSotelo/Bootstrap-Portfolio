@@ -35,12 +35,9 @@ body {
   padding:0;
 }  
 
-
 /* sticky footer styling */
 
 /* https://css-tricks.com/snippets/css/sticky-footer/ */
-
-
 
 .wrapper {
   height: auto !important;
@@ -188,7 +185,6 @@ footer {
   left: 0;
   bottom: 0;
 
-
 }
 
 h3, h2 {
@@ -214,12 +210,9 @@ h3, h2 {
   background: #fff;
   border: 1px solid #ddd;
 }
-.col-md-10,
 .col-md-5 {
   margin-top: 30px;
 }
-
-/* portfolio page */
 
 .work {
   position: relative;
@@ -304,6 +297,11 @@ input[type=submit] {
 .btn-primary {
   background-color: #4aaaa5;
 }
-   
+
+#connect {
+  padding:5px;
+  text-align: center;
+  background-color: #fff
+}
 
     
